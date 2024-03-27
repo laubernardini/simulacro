@@ -17,4 +17,4 @@ function evaluar(nota) {
 
 }
 
-console.log(evaluar(10))
+console.log(evaluar(8))
